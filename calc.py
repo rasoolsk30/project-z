@@ -1,10 +1,10 @@
  add(a,b):
-     pass
+     return
  sub(a-b):
-     pass
+     return
  div(a,b):
-     pass
+     return
  mul(a,b):
-     pass
+     return
 
 
